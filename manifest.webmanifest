@@ -1,0 +1,17 @@
+{
+  "name": "Vebuno",
+  "short_name": "Vebuno",
+  "lang": "ru",
+  "start_url": "/vebuno-mobile-preview/demo?view=all",
+  "scope": "/vebuno-mobile-preview/",
+  "display": "standalone",
+  "background_color": "#111820",
+  "theme_color": "#111820",
+  "icons": [
+    {
+      "src": "/vebuno-mobile-preview/vebuno-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
